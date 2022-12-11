@@ -1,0 +1,6 @@
+ patients : "./covid19_csv/patients.csv"
+ conditions : "./covid19_csv/conditions.csv"
+ observations : "./covid19_csv/observations.csv"
+ coreplans : "./covid19_csv/careplans.csv"
+ encounters : "./covid19_csv/encounters.csv"
+ 
