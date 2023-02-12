@@ -27,11 +27,6 @@ Libraries needed:
     - seaborn(0.12.2)
 
 
-
-* Modules needed: 
-    - plotting_functions
-
-
 ### Installing
 
 1. Run `pip install -r requirements.txt` to install dependencies

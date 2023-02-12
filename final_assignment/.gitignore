@@ -6,7 +6,6 @@ data.csv
 *.csv
 *.xls
 *.xlsx
-*.txt
 # C extensions
 *.so
 **/data/*
